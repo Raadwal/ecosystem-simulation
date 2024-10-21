@@ -1,0 +1,15 @@
+# Ignore binaries and intermediate files
+*.exe
+*.dll
+*.pdb
+*.lib
+*.obj
+*.app
+*.dylib
+*.csproj
+*.sln
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+.vs/
